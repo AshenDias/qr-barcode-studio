@@ -1,0 +1,6 @@
+{
+  "name": "Instant QR & Barcode Studio",
+  "description": "Professional client-side utility workspace for instant QR code and barcode generation, custom styling, bulk batch processing, and live camera scanning.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
